@@ -14,7 +14,7 @@ This project implements image segmentation using OpenCV's edge detection and con
 ## Installation
 To set up the environment, install the required dependencies using:
 ```
-in colab just import hte libraries
+in colab just import the libraries
 ```
 
 ## Challenges Faced
